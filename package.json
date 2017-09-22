@@ -43,5 +43,8 @@
     "github",
     "googlepagespeed"
   ],
-  "homepage": "https://github.com/bdavidxyz/yourown-bootstrap4/"
+  "homepage": "https://github.com/bdavidxyz/yourown-bootstrap4/",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta"
+  }
 }
